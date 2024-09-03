@@ -24,7 +24,7 @@
     "web"
   ],
   "dependencies": {
-    "@jest/environment": "29.5.0",
+    "@jest/environment": "29.7.0",
     "@jest/fake-timers": "29.5.0",
     "@jest/globals": "29.7.0"
   },
