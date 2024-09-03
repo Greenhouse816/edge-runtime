@@ -121,7 +121,7 @@
   },
   "devDependencies": {
     "@changesets/cli": "latest",
-    "@jest/types": "29.5.0",
+    "@jest/types": "29.6.3",
     "@svitejs/changesets-changelog-github-compact": "latest",
     "@types/jest": "29.5.12",
     "@types/node": "16",
